@@ -1,0 +1,3 @@
+BELUM DI-DEPLOY
+
+Setelah deployment berhasil di Streamlit Community Cloud, ganti isi file ini dengan URL publik aplikasi yang sebenarnya. Jangan submit placeholder ini jika Anda memilih menerapkan saran deployment.
